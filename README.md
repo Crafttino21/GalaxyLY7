@@ -9,6 +9,7 @@ Methods:
 - HTTP-GET Flood
 - HTTP-REQUEST Flood
 - HTTP-MIX Flood
+- HTTP-AUTH Flood (with Large Headers)
 
 Planed for the Next updates:
 - Better Performance
